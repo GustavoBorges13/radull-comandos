@@ -1,6 +1,6 @@
 <?php
 //Comando trocadilho by Gustavo Borges (AslordX) - Twitch Radull [https://www.twitch.tv/radull]
-#Versão 1.2 (Data de atualização: 06/03/2021 | Horário: 13h)
+#Versão 1.3 (Data de atualização: 14/03/2021 | Horário: 13h)
 
 $t1 = "Um homem ouviu boatos de que hackers disponibilizaram o novo jogo de Zelda ilegalmente na Internet e este homem falou para o seu filho: Não clique em nenhum Link suspeito.";
 $t2 = "Qual o game que está sempre gripado? <=> O Overwatchim";
