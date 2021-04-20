@@ -60,7 +60,10 @@ $rt = array($t1, $t2, $t3, $t4, $t5, $t6, $t7, $t8, $t9, $t10, $t11, $t12, $t13,
 $chaves_aleatorias = array_rand($rt, 1); //Aqui vai selecionar 1 trocadilho aleatorio presente naquele grupo.
 echo $rt[$chaves_aleatorias];
 
-#Observações>: !addcom !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch http://radullrepositorio.medianewsonline.com/ComandoTROCADILHO.php)
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ATENÇÃO ATENÇÃO ATENÇÃO ATENÇÃO ATENÇÃO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#Observações>
+#Para o nightbot use: !addcom !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch http://radullrepositorio.medianewsonline.com/ComandoTROCADILHO.php)
+#Para o StreamElements use: !command add !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch http://radullrepositorio.medianewsonline.com/ComandoTROCADILHO.php)
 
 /* CREDITOS AOS TROCADILHOS (FONTES DE PESQUISA) > 
 Lista de trocadilhos do lol por EQG Greengu, disponível no link:
