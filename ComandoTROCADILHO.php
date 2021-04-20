@@ -15,7 +15,7 @@ $t10 = "Eu VI isso?!";
 $t11 = "Meu GALIO tá grande hoje!.";
 $t12 = "JAX chega!";
 $t13 = "Isso é EZREAL?";
-$t14 = "Você pode não estar RINDO da LIVE do Radull agora, mas o EZREAL.";
+$t14 = "Você pode não estar RINDO da LIVE agora, mas o EZREAL.";
 $t15 = "Meu MUNDO tá de cabeça pra baixo!";
 $t16 = "Essa mulher é uma LEONA!";
 $t17 = "Ai meu LULU!";
@@ -68,13 +68,10 @@ echo $rt[$chaves_aleatorias];
 /* CREDITOS AOS TROCADILHOS (FONTES DE PESQUISA) > 
 Lista de trocadilhos do lol por EQG Greengu, disponível no link:
 - https://forums.comunidades.riotgames.com/t5/Outros-Assuntos-de-LoL/MINHA-LISTA-DE-TROCADILHOS-DE-CAMPEÕES-DO-LoL/td-p/43481
-
 Outros trocadilhos aleatorios foram feitos por: Teyas, O Ultimo Samurai, CarIosHoltz, TioKilllua, Bikman e samucão123 disponível no seguinte link:
 - https://forums.comunidades.riotgames.com/t5/Memes-e-Piadas/Algumas-piadas-de-lol/td-p/513626
-
 Outros trocadilhos randoms (sem ser de lol), disponíveis em:
 - https://www.maioresemelhores.com/trocadilhos-mais-bobos-e-engracados/
 - https://buzzfeed.com.br/post/as-14-piadas-horriveis-mais-engracadas-do-brasil
-
 */
 ?> 
