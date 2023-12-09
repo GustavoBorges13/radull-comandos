@@ -1,6 +1,6 @@
 ## Olá!
-Este é o trocadilho sobre jogos e diversos...
-Os trocadilhos aqui são fontes da internet no qual ao final desse documento havera os creditos referentes a pesquisa... e ademais temos como foco os seguintes jogos: League of Legends, Overwatch e dentre outros.
+Este é repositorio composto por codigos para serem utilizados em um site de hospedagem que possibilitara o teste de nossos codigos em .php e utilizar no nightbot ou streamelements na twitch.tv.
+Vale ressaltar que, os trocadilhos utilizados no codigo ComandoTrocadilho.php, são fontes da internet no qual ao final desse documento havera os creditos referentes a pesquisa... e ademais temos como foco os seguintes jogos: League of Legends, Overwatch e dentre outros.
 
 ### Criador
 >Comando trocadilho by Gustavo Borges (AslordX) - Twitch Radull [https://www.twitch.tv/radull]</br>
