@@ -15,6 +15,7 @@ Versão 1.3 (Data de atualização: 21/06/2023 | Horário: 19h)
 @@ FUNCIONANDO @@
 + Servidor ainda está hospedando o site onde os php estão armazenados;
 - No momento não será atualizado mais os códigos devido não ser meu objetivo atual no momento.
+! Descontinuado
 ```
 
 </br>
