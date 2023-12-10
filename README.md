@@ -22,29 +22,47 @@ Versão 1.3 (Data de atualização: 21/06/2023 | Horário: 19h)
 </br>
 
 ## Comando !trocadilho
-Para adicionar o comando do trocadilho ao seu canal, basta copiar e colar este seguinte codigo na sua twitch: 
-#Para o nightbot use: !addcom !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoTrocadilho.php)
-#Para o StreamElements use: !command add !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoTrocadilho.php)
-E ainda se tu quiser ver como funciona o script PHP, basta entrar em alguns desses links acima e pressionar a tecla F5 para observar as alterações dos comandos
+Para adicionar o comando do trocadilho ao seu canal, basta copiar e colar o codigo na sua twitch: </br>
+>#Para o nightbot use:
+```
+!addcom !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoTrocadilho.php)
+```
+>#Para o StreamElements use: 
+```
+!command add !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoTrocadilho.php)
+```
 
 ## Comando !comida
-Para adicionar o comando do trocadilho ao seu canal, basta copiar e colar este seguinte codigo na sua twitch: 
-#Para o nightbot use: !addcom !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoComida.php)
-#Para o StreamElements use: !command add !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoComida.php)
-E ainda se tu quiser ver como funciona o script PHP, basta entrar em alguns desses links acima e pressionar a tecla F5 para observar as alterações dos comandos
+Para adicionar o comando do trocadilho ao seu canal, basta copiar e colar o codigo na sua twitch: </br>
+>#Para o nightbot use: 
+```
+!addcom !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoComida.php)
+```
+>#Para o StreamElements use: 
+```
+!command add !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoComida.php)
+```
 
 ## Comando !tamanho
-Para adicionar o comando do trocadilho ao seu canal, basta copiar e colar este seguinte codigo na sua twitch: 
-#Para o nightbot use: !addcom !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoTamanho.php)
-#Para o StreamElements use: !command add !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoTamanho.php)
-E ainda se tu quiser ver como funciona o script PHP, basta entrar em alguns desses links acima e pressionar a tecla F5 para observar as alterações dos comandos
-
+Para adicionar o comando do trocadilho ao seu canal, basta copiar e colar o codigo na sua twitch: </br>
+>#Para o nightbot use: 
+```
+!addcom !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoTamanho.php)
+```
+>#Para o StreamElements use:
+```
+!command add !trocadilho $(user) fez o seguinte trocadilho: $(urlfetch https://radullrepositorio.000webhostapp.com/wp-content/ComandoTamanho.php)
+```
 </br>
 
 ## Faça o teste agora mesmo!
-- Conforme dito, acesse os links com final .php e utilize F5 para atualizar página para ver o gerador;
+- Acesse os links abaixos que estão com final .php e utilize F5 para atualizar página para ver o gerador;
 - Lembrando que voce precisa ter o nightbot com privilegios de moderador no seu canal para funcionar;
 - Além disso, o trocadilho é aleatorio, ou seja, tem risco de repetir então depende da sorte. Caso alguém saiba mexer com php e queira demonstrar uma programação que faça não repetir os trocadilhos até chegar no ultimo trocadilho pra iniciar um ciclo de repetição eu ficarei grato rsrs...
+
+>https://radullrepositorio.000webhostapp.com/wp-content/ComandoTrocadilho.php</br>
+>https://radullrepositorio.000webhostapp.com/wp-content/ComandoTamanho.php</br>
+>https://radullrepositorio.000webhostapp.com/wp-content/ComandoComida.php
 
 </br>
 
